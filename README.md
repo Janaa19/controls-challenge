@@ -1,4 +1,4 @@
-# My Solution — Jana Abedeljaber
+# My Solution - Jana Abedeljaber
 
 Hi! This is my solution to the comma.ai Controls Challenge. The original README from the repo is below this explanation.
 
